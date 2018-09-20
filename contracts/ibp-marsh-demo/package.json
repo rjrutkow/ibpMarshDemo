@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "description": "Public demo, IBM + Marsh",
   "scripts": {
-    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/ibpautoinstance1.bna"
+    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/ibp-marsh-demo.bna"
   },
   "keywords": [
     "composer",
